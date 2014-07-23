@@ -1,0 +1,611 @@
+{
+    "videoPath": "videofiles/",
+    "filesPath": "downloads/",
+    "videos": [
+        {
+            "description": "I'll update everyone on ES6, ES7, and how JS is evolving quickly under a fairly balanced and competitive/cooperative browser market structure, and the consequent rise of the lead web developers and github.com. ",
+            "duration": "29 minutes 266 MB",
+            "title": "JavaScript: Taking both the High and the Low Roads",
+			"presenter" : "Brendan Eich",
+            "type": "lecture"
+        },
+        {
+            "description": "What if everyone learnt to program in middle school? How would that change the way that they learnt other subjects? How would it affect their personal life? Their career? It's kind of a crazy idea, but it might be crazy in a good way. In this talk, I'll lay down my ideas for how this could happen and what it might mean, based on my experience teaching programming online on Khan Academy. ",
+            "duration": "10 minutes 96 MB",
+            "title": "Reading, Writing, Arithmetic,... and JavaScript?",
+			"presenter" : "Pamela Fox",
+            "type": "lecture"
+        },
+        {
+            "description": "How does the pervasiveness of JavaScript on the client change how we architect applications? We can create hundreds of virtual machines in the cloud, but we are using the millions of visual machines that visit our sites every day? ",
+            "duration": "25 minutes 231 MB",
+            "title": "Virtual Machines, JavaScript and Assembler",
+			"presenter" : "Scott Hanselman",
+            "type": "lecture"
+        },
+        {
+            "description": "The winners of the first annual O'Reilly Web Platform Awards are announced. ",
+            "duration": "4 minutes 38 MB",
+            "title": "O'Reilly Web Platform Award Winners Announced",
+			"presenter" : "O'Reilly",
+            "type": "lecture"
+        },
+        {
+            "description": "Lea Verou, Developer Relations, W3C ",
+            "duration": "13 minutes 123 MB",
+            "title": "The Humble Border-Radius",
+			"presenter" : "Lea Verou",
+            "type": "lecture"
+        },
+        {
+            "description": "Performance is a feature, but what exactly is performance? Should UX be part of it and are there design principles that will help us deliver experiences that 'feel faster'? What does it mean for a site to 'feel fast' anyway and what is fast enough? ",
+            "duration": "15 minutes 142 MB",
+            "title": "Speed, Performance, and Human Perception",
+			"presenter" : "Ilya Grigorik",
+            "type": "lecture"
+        },
+        {
+            "description": "Paul Irish, Chrome Developer Advocate, Google ",
+            "duration": "23 minutes 207 MB",
+            "title": "Keynote with Paul Irish",
+			"presenter" : "Paul Irish",
+            "type": "lecture"
+        },
+        {
+            "description": "Jen Simmons, Designer, Jen Simmons Design ",
+            "duration": "12 minutes 109 MB",
+            "title": "Keynote with Jen Simmons",
+			"presenter" : "Jen Simmons",
+            "type": "lecture"
+        },
+        {
+            "description": "Front-end performance bottlenecks and errors leave a lasting impression on your customers. This is not the impression you want. Christine will show you how to quickly identify problems in your front-end code and make sure your users stay happy and keep visiting your web app. ",
+            "duration": "3 minutes 34 MB",
+            "title": "Understand Your User's Experience",
+			"presenter": "Christine Sotelo",
+            "type": "lecture"
+        },
+        {
+            "description": "It's time for video narratives to truly be of the web. Video shouldn't just be a one-way stream: it should create a dynamic, interactive, responsive visual narratives that leverage all the resources of the web, whether those are simply text, or complex visualizations or localized data. ",
+            "duration": "8 minutes 80 MB",
+            "title": "Beyond Pushing 'Play': Interactive, Data-driven Videos for a Web-based World",
+			"presenter": "Susan E. McGregor",
+            "type": "lecture"
+        },
+        {
+            "description": "Across the board, the JavaScript community is thriving. This last year has seen unprecedented levels of adoption. Dave and Aaron will take a look at some of the reasons for the success of the JavaScript community, while also exploring some of the painful bits along the way. ",
+            "duration": "12 minutes 110 MB",
+            "title": "The Goodness of JavaScript",
+			"presenter": "Aaron Frost and Dave Geddes",
+            "type": "lecture"
+        },
+        {
+            "description": "Yehuda Katz and Tom Dale, Co-founders, Tilde Inc. ",
+            "duration": "23 minutes 209 MB",
+            "title": "Keynote with Yehuda Katz and Tom Dale",
+			"presenter": "Yehuda Katz and Tom Dale",
+            "type": "lecture"
+        },
+        {
+            "description": "Today's front end developers have more work to do than ever to create a functioning, responsive, fast, good-looking website. We have differing screen resolutions, browser support, network speeds and other considerations all buzzing around, jockeying for highest priority and attention during development. Fortunately for us, we also have more tools than ever before to help us begin, develop, test and refine those good-looking sites. Using those tools to automate the development process will help keep us sane, so let's do just that: automate all the front-end development things! ",
+            "duration": "44 minutes 396 MB",
+            "title": "Automate All the Front-End Things! - Part 1",
+			"presenter": "Kitt Hodsden",
+            "type": "tutorial",
+            "filename": "automate-all-the-front-end-things-part-1",
+            "download": "automate_all_things_files.zip"
+        },
+        {
+            "description": "Today's front end developers have more work to do than ever to create a functioning, responsive, fast, good-looking website. We have differing screen resolutions, browser support, network speeds and other considerations all buzzing around, jockeying for highest priority and attention during development. Fortunately for us, we also have more tools than ever before to help us begin, develop, test and refine those good-looking sites. Using those tools to automate the development process will help keep us sane, so let's do just that: automate all the front-end development things! ",
+            "duration": "43 minutes 384 MB",
+            "title": "Automate All the Front-End Things! - Part 2",
+			"presenter": "Kitt Hodsden",
+            "type": "tutorial",
+            "filename": "automate-all-the-front-end-things-part-2"
+        },
+        {
+            "description": "3-Hours: Web Components are the building blocks of tomorrow's web applications, but you can start working with them today. Learn about how the various pieces of the spec work together to create awesome, reusable, and well-encapsulated components and put it into practice today using Google's Polymer library. ",
+            "duration": "55 minutes 493 MB",
+            "title": "Web Components in Action - Part 1",
+			"presenter": "Michael Bleigh",
+            "type": "tutorial"
+        },
+        {
+            "description": "3-Hours: Web Components are the building blocks of tomorrow's web applications, but you can start working with them today. Learn about how the various pieces of the spec work together to create awesome, reusable, and well-encapsulated components and put it into practice today using Google's Polymer library. ",
+            "duration": "39 minutes 357 MB",
+            "title": "Web Components in Action - Part 2",
+			"presenter": "Michael Bleigh",
+            "type": "tutorial"
+        },
+        {
+            "description": "3-Hours: Web Components are the building blocks of tomorrow's web applications, but you can start working with them today. Learn about how the various pieces of the spec work together to create awesome, reusable, and well-encapsulated components and put it into practice today using Google's Polymer library. ",
+            "duration": "42 minutes 379 MB",
+            "title": "Web Components in Action - Part 3",
+			"presenter": "Michael Bleigh",
+            "type": "tutorial"
+        },
+        {
+            "description": "90-Minutes: WebRTC is a powerful open-source project that enables real-time communication (RTC) baked right into modern web browsers. This means you can now incorporate video, voice and data sharing using peer-to-peer connectivity via simple JavaScript APIs, with no plugins or additional installs. ",
+            "duration": "38 minutes 338 MB",
+            "title": "WebRTC: Realtime Communication for Everyone - Part 1",
+			"presenter": "Lisa Larson-Kelley",
+            "type": "tutorial"
+        },
+        {
+            "description": "90-Minutes: WebRTC is a powerful open-source project that enables real-time communication (RTC) baked right into modern web browsers. This means you can now incorporate video, voice and data sharing using peer-to-peer connectivity via simple JavaScript APIs, with no plugins or additional installs. ",
+            "duration": "39 minutes 347 MB",
+            "title": "WebRTC: Realtime Communication for Everyone - Part 2",
+			"presenter": "Lisa Larson-Kelley",
+            "type": "tutorial"
+        },
+        {
+            "description": "In this session, we'll review common attacks on web applications: SQL injection, cross-site scripting (XSS), broken authentication, cross-site request forgery, information disclosure, and insecure password storage. ",
+            "duration": "45 minutes 407 MB",
+            "title": "Attacking Web Applications - Part 1",
+			"presenter": "Sasha Goldshtein",
+            "type": "tutorial"
+        },
+        {
+            "description": "In this session, we'll review common attacks on web applications: SQL injection, cross-site scripting (XSS), broken authentication, cross-site request forgery, information disclosure, and insecure password storage. ",
+            "duration": "37 minutes 329 MB",
+            "title": "Attacking Web Applications - Part 2",
+			"presenter": "Sasha Goldshtein",
+            "type": "tutorial"
+        },
+        {
+            "description": "3-Hours: In three hours participants will go from zero knowledge of AngularJS to being able to write full and complex AngularJS apps. ",
+            "duration": "41 minutes 367 MB",
+            "title": "AngularJS Fundamentals - Part 1",
+			"presenter": "Mark Bates",
+            "type": "tutorial"
+        },
+        {
+            "description": "3-Hours: In three hours participants will go from zero knowledge of AngularJS to being able to write full and complex AngularJS apps. ",
+            "duration": "48 minutes 435 MB",
+            "title": "AngularJS Fundamentals - Part 2",
+			"presenter": "Mark Bates",
+            "type": "tutorial"
+        },
+        {
+            "description": "3-Hours: In three hours participants will go from zero knowledge of AngularJS to being able to write full and complex AngularJS apps. ",
+            "duration": "36 minutes 328 MB",
+            "title": "AngularJS Fundamentals - Part 3",
+			"presenter": "Mark Bates",
+            "type": "tutorial"
+        },
+        {
+            "description": "3-Hours: In three hours participants will go from zero knowledge of AngularJS to being able to write full and complex AngularJS apps. ",
+            "duration": "46 minutes 416 MB",
+            "title": "AngularJS Fundamentals - Part 4",
+			"presenter": "Mark Bates",
+            "type": "tutorial"
+        },
+        {
+            "description": "3-Hours: This workshop will introduce you to the basics of the D3 library. D3 lets you create rich, custom interactive pieces driven by data, but the learning curve can be difficult to navigate. We'll cover the fundamental concepts of the library as well as SVG the most common illustration tool for D3 and enough functionalof the D3 library. D3 lets you create rich, custom interactive pieces driven by data, but the learning curve can be difficult to navigate. We'll cover the fundamental concepts of the library as well as SVG the most common illustration tool for D3 and enough functional programming to get by. ",
+            "duration": "34 minutes 306 MB",
+            "title": "Creating Interactives with D3.js - Part 1",
+			"presenter": "John Williams",
+            "type": "tutorial"
+        },
+        {
+            "description": "90-Minutes: Choosing an MVC framework for you next project is a daunting task; there are so many options with fervent supporters that it seems there is no one exclusively right path. This workshop won't be a pitch for any one of them: it aims to give you context for each of the three frameworks so that you can make your own informed decision. ",
+            "duration": "37 minutes 332 MB",
+            "title": "JavaScript Smackdown! Choosing Your MVC between Angular, Ember, and Backbone - Part 1",
+			"presenter": "Brian Holt",
+            "type": "tutorial"
+        },
+        {
+            "description": "90-Minutes: Choosing an MVC framework for you next project is a daunting task; there are so many options with fervent supporters that it seems there is no one exclusively right path. This workshop won't be a pitch for any one of them: it aims to give you context for each of the three frameworks so that you can make your own informed decision. ",
+            "duration": "1 hour 0 minutes 540 MB",
+            "title": "JavaScript Smackdown! Choosing Your MVC between Angular, Ember, and Backbone - Part 2",
+			"presenter": "Brian Holt",
+            "type": "tutorial"
+        },
+        {
+            "description": "Web Components make web development fun again! Learn how to use Polymer and its UI components to create beautify component-based applications. Let's bring composability, reusability, and maintainability to the web. ",
+            "duration": "38 minutes 346 MB",
+            "title": "Polymer: Web Components in Action",
+			"presenter": "Eric Bidelman",
+            "type": "session"
+        },
+        {
+            "description": "After you've developed that first demo app using the Angular JavaScript framework, now what? This presentation covers patterns and strategies for developing more complex apps using Angular, avoiding pitfalls, and how to write your own directives and components the 'Angular Way'. ",
+            "duration": "24 minutes 213 MB",
+            "title": "Leveling Up in Angular",
+			"presenter": "Alicia Liu",
+            "type": "session"
+        },
+        {
+            "description": "We've all come to expect audio, video and realtime communication from apps, games and sites on all our devices. This session will help you build dynamic, multi-device web applications using video, WebRTC, Web Audio and more. We show you how to maximize performance, avoid common gotchas, and deliver great experiences on mobile and desktop, using powerful new media APIs. ",
+            "duration": "34 minutes 305 MB",
+            "title": "Media APIs for the Web",
+			"presenter": "Chris Wilson",
+            "type": "session"
+        },
+        {
+            "description": "See how to use ES6 modules and syntax in browsers today, with a focus on writing truly modular code. An overview of approaches will be covered, including a workflow for the ES6 Module Loader polyfill from development to production. Finally see an overview of the JSPM loader and CDN, demonstrating some of the possibilities of browser package management. ",
+            "duration": "36 minutes 327 MB",
+            "title": "Practical Workflows for ES6 Modules",
+			"presenter": "Guy Bedford",
+            "type": "session"
+        },
+        {
+            "description": "We present some exciting results from Intel's ongoing joint work with Google and Mozilla on bringing SIMD to JavaScript, enabling development of high performance web apps including game engines and apps that require efficient image/video/speech processing. We also cover the portable Crosswalk HTML5 runtime and Intel XDK that lowers the development costs of web and hybrid apps for major app stores. ",
+            "duration": "30 minutes 275 MB",
+            "title": "Closing the Web Platform Gap with Native",
+			"presenter": "Moh Haghighat",
+            "type": "session"
+        },
+        {
+            "description": "The quality of modular web applications can be improved by having the right set of APIs. This talk highlights the recent API design best practices, from using static polymorphism for consistent naming, preventing dangerous convenience (e.g. Boolean trap), and avoiding unreadable code due to confusing semantics. Real-world examples and automated tools to recognize bad API will be shown as well. ",
+            "duration": "27 minutes 247 MB",
+            "title": "Design Strategies for JavaScript API",
+			"presenter": "Ariya Hidayat",
+            "type": "session"
+        },
+        {
+            "description": "This talk will illustrate the design process behind Kindred Britain (kindred.stanford.edu), an interactive network visualization and digital humanities project, made with Nicholas Jenkins and Elijah Meeks of Stanford University. ",
+            "duration": "27 minutes 248 MB",
+            "title": "Interface Design Considerations for Data Visualization",
+			"presenter": "Scott Murray",
+            "type": "session"
+        },
+        {
+            "description": "At Facebook we take the future of JavaScript seriously, and we go to great lengths to accelerate the adoption of new language features both within the company and without. Join us for a close look at some of our techniques for transpiling, desugaring, refactoring, and otherwise improving a very large JavaScript codebase. ",
+            "duration": "33 minutes 294 MB",
+            "title": "Technical and Social Progress Toward ECMAScript 6 at Facebook",
+			"presenter": "Ben Newman",
+            "type": "session"
+        },
+        {
+            "description": "During this session discover the ways you can impact the application performance for your end user - pin pointing time spent within layers of the application, and end user demographics through geography, browser types, and page views. In addition to the application visibility we will be showing you how to dive into the time being spent within AJAX as well as the impact of JavaScript errors. ",
+            "duration": "25 minutes 229 MB",
+            "title": "Measuring App Performance in the Browser",
+			"presenter": "Nathan Taggart",
+            "type": "session"
+        },
+        {
+            "description": "8-bit gaming is back, big time! Recreating the look and feel of an 8-bit game in the browser isn't complete without that classic 8-bit sound. In this session we'll look at how you can create 8-bit soundtracks in the browser using the Web Audio API and some help from a library called Band.js. ",
+            "duration": "27 minutes 245 MB",
+            "title": "Creating 8-bit Game Music in the Browser",
+			"presenter": "Brian Rinaldi",
+            "type": "session"
+        },
+        {
+            "description": "Learn what tools exist to assess and visualize JavaScript complexity and learn how to manage ever enlarging codebases. There are loads of tools out now that go a long way to managing your code (and other's) so you have more time to deal with what is important. Learn how to make the best of them. ",
+            "duration": "30 minutes 700 MB",
+            "title": "Managing JavaScript Complexity in Teams",
+			"presenter": "Jarrod Overson",
+            "type": "session"
+        },
+        {
+            "description": "In this talk, I will look at two of the technologies that lie at the basis of responsive web design: the viewport meta tag and CSS media queries. I will explain how viewport is being standardized as viewport, and how many other new features in CSS, such as the resolution media query, object-fit, relative length units etc., can be used to create even more compelling responsive designs. ",
+            "duration": "29 minutes 264 MB",
+            "title": "Responsive Web Design with viewport and Other New CSS Features",
+			"presenter": "Andreas Bovens",
+            "type": "session"
+        },
+        {
+            "description": "Functions in ECMAScript 5 are mostly replaced by new callable entities in ECMAScript 6: arrow functions, classes and method definitions. This talk explains how they work and what existing problems they fix. ",
+            "duration": "29 minutes 261 MB",
+            "title": "Callable Entities in ECMAScript 6",
+			"presenter": "Axel Rauschmayer",
+            "type": "session"
+        },
+        {
+            "description": "A look at debugging techniques (some helpful, some desperate) for PhoneGap applications. ",
+            "duration": "29 minutes 265 MB",
+            "title": "Debugging (AKA Screaming, Crying, and Raging) Your PhoneGap Apps",
+			"presenter": "Raymond Camden",
+            "type": "session"
+        },
+        {
+            "description": "While the client-side JavaScript app approach can provide snappy, interactive UIs, it presents challenges, including initial page-load performance, SEO, and duplication of application logic between client and server. Let's explore the budding community around isomorphic JavaScript apps and the tools and libraries you can use to run your app on the client and server with a single codebase. ",
+            "duration": "28 minutes 257 MB",
+            "title": "In Pursuit of the Holy Grail: Building Isomorphic JavaScript Apps",
+			"presenter": "Spike Brehm",
+            "type": "session"
+        },
+        {
+            "description": "What does a drive-thru have to teach us about optimizing tools and processes? ",
+            "duration": "33 minutes 299 MB",
+            "title": "Where's my straw?",
+			"presenter": "Kyle Simpson",
+            "type": "session"
+        },
+        {
+            "description": "Behind every app, every device, and every connection, is a customer. Using the Salesforce1 Platform there's no limit to what you can build for your customers. In this talk Wade Wegner, Senior Director at salesforce.com, will demonstrate how to build your own applications using the Salesforce1 APIs. Heavy in code, light in slides, you'll leave ready to build your own applications on Salesforce",
+            "duration": "29 minutes 261 MB",
+            "title": "Buillding Customer Applications Using the Salesforce1 Platform APIs",
+			"presenter": "Wade Wegner",
+            "type": "session"
+        },
+        {
+            "description": "Rackspace Performance Cloud Servers ",
+            "duration": "29 minutes 264 MB",
+            "title": "Speed and Magic Sharding",
+			"presenter": "Jesse Noller",
+            "type": "session"
+        },
+        {
+            "description": "How loose typing makes generic functions easier - how generic functions are better for code reuse and functional programming - how object extension makes inheritance easier - novel uses for dynamic objects, including a flexible, less error-prone alternative to switch / case ",
+            "duration": "30 minutes 670 MB",
+            "title": "Static Types are Overrated: The Dynamic Duo - Loose Types and Object Extension",
+			"presenter": "Eric Elliott",
+            "type": "session"
+        },
+        {
+            "description": "WebGL's hardware-accelerated 3D rendering enables the creation of high-performance, visually stunning web content for advertising, entertainment, e-commerce, and social media. This session covers the basics of developing web graphics using WebGL. Topics include rendering, animation, interactivity, behaviors, and integrating 3D into HTML5 pages using open source WebGL libraries. ",
+            "duration": "31 minutes 275 MB",
+            "title": "Developing Web Graphics with WebGL",
+			"presenter": "Tony Parisi",
+            "type": "session"
+        },
+        {
+            "description": "Young children playing with mobile devices don't have a preconceived idea of what it means to tap, or swipe, or talk into the mic, or that only one little point of one hand should touch the screen at a time. They rely on trial and error and cues from the app. This session will cover intuitive gestures, interactivity cues, and element placement, as well as legal considerations for children's apps. ",
+            "duration": "26 minutes 234 MB",
+            "title": "So Easy A Child Could Do It",
+			"presenter": "Kathryn Rotondo",
+            "type": "session"
+        },
+        {
+            "description": "Developing large apps is difficult. Ensuring that code is consistent, well structured, tested and has an architecture that encourages enhancement and maintainability is essential. But, how do you achieve this when building HTML5 single page apps? In this talk, you'll learn the main concepts to apply when building a front-end app that scales and how BladeRunnerJS can support the development process. ",
+            "duration": "32 minutes 292 MB",
+            "title": "Using BladeRunnerJS to build front-end JavaScript apps that scale",
+			"presenter": "Phil Leggetter",
+            "type": "session"
+        },
+        {
+            "description": "In this presentation well take a look at the various ways JavaScript relies on Unicode, what the consequences are for JavaScript developers wishing to support full Unicode in their apps, and how ECMAScript 6 will make our lives a bit easier in this regard. ",
+            "duration": "28 minutes 253 MB",
+            "title": "JavaScript Loves Unicode",
+			"presenter": "Mathias Bynens",
+            "type": "session"
+        },
+        {
+            "description": "Which would you rather have: a website that's fast or a website that's perceived as fast? The answer is Both! The list of performance best practices is long and well known, but there's been less focus on the users perception of speed. In this presentation, Steve Souders provides examples of how the perception of speed is completely independent of actual speed, and techniques for leveraging this perception gap to create websites that feel fast. ",
+            "duration": "30 minutes 274 MB",
+            "title": "The Perception of Speed",
+			"presenter": "Steve Souders",
+            "type": "session"
+        },
+        {
+            "description": "Have you ever wondered how JavaScript runtime engines actually execute your code? JavaScript as a language has many interesting facets and features, and this has led to innovative techniques for executing code efficiently. Learn all about how modern runtime engines work, and hopefully gain some insight on how you can better leverage the language for your projects. ",
+            "duration": "30 minutes 271 MB",
+            "title": "Inside JavaScript Execution",
+			"presenter": "Chase Douglas",
+            "type": "session"
+        },
+        {
+            "description": "In this talk, you will learn about a system we have built that quantifies and tracks the risk of files in any given codebase to empower all the levels of the organization to make informed decisions regarding code changes and accurately evaluate the health of their projects. ",
+            "duration": "28 minutes 257 MB",
+            "title": "Code Risk Management at Twitter",
+			"presenter": "Andres Ornelas",
+            "type": "session"
+        },
+        {
+            "description": "JavaScript has come of age, and with it, the maturity of the software development lifecycle. No matter the scale or publish platform for your app, you'll need a consistent build. We'll discuss standard CI best practices and techniques, and walk through two approaches to Continuous Integration in JavaScript: Travis CI and gulp. ",
+            "duration": "34 minutes 304 MB",
+            "title": "Continuous Integration in JavaScript",
+			"presenter": "Rob Richardson",
+            "type": "session"
+        },
+        {
+            "description": "Successful applications often get slow because they include 'all the code'- even if it isn't needed for a particular client or in the given circumstances. Embracing module loading tools (like Require.js) creates smaller, faster, cleaner applications. We'll talk about how to extend this paradigm to all the components of our app for better performance and maintainability. ",
+            "duration": "32 minutes 287 MB",
+            "title": "Everything is a Polyfill: Automate Deleting Code for Front End Performance",
+			"presenter": "Rachel Myers and Emily Nakashima",
+            "type": "session"
+        },
+        {
+            "description": "Do you still need jQuery? Has it become a crutch? Can you get away with dropping jQuery as a dependency and use native browser APIs instead? For the majority of this session we will be looking at common jQuery snippets and show how to convert them either using native browser APIs or utilizing popular micro-libraries. ",
+            "duration": "29 minutes 264 MB",
+            "title": "jQuery-free JavaScript",
+			"presenter": "Elijah Manor",
+            "type": "session"
+        },
+        {
+            "description": "If not programmed and configured in a security conscious manner, Node.js web applications expose attack vectors that can be exploited for severe technical and business impact. In this presentation, attendees will learn about possible security pitfalls and walk out with a cohesive action plan to effectively address these concerns and build resilient Node.js web applications. ",
+            "duration": "27 minutes 244 MB",
+            "title": "Top Overlooked Security Threats To Node.js Web Applications",
+			"presenter": "Chetan Karande",
+            "type": "session"
+        },
+        {
+            "description": "Real world measurement at scale is the only reliable way for web engineers to understand the performance behaviour of routine techniques, considered to be best practices in desktop web development, on smartphones running on cellular data networks. In this talk we will review common performance memes and evaluate them in the context of real world mobile performance. ",
+            "duration": "30 minutes 274 MB",
+            "title": "6 Bottles of RUM: Surprising Stories of Mobile Behavior in the Real World",
+			"presenter": "Peter McLachlan",
+            "type": "session"
+        },
+        {
+            "description": "At Facebook and Instagram, we're trying to push the limits of what's possible on the web with React. My talk will start with a brief introduction to React and then dive into three controversial topics: Throwing out the notion of templates and building views with JavaScript, re-rendering your entire application when your data changes, and a lightweight implementation of the DOM and events. ",
+            "duration": "30 minutes 274 MB",
+            "title": "The Secrets of React's Virtual DOM",
+			"presenter": "Pete Hunt",
+            "type": "session"
+        },
+        {
+            "description": "Data visualizations is increasingly popular. This talk will cover well-known challenges and pitfalls for accessible data visualization, and describe techniques to overcome them, and even to enhance accessibility by using Web solutions like SVG, HTML, ARIA, and the Web Audio API and Web Speech API. ",
+            "duration": "31 minutes 284 MB",
+            "title": "Invisible Visualization: Accessible Information Graphics on the Web",
+			"presenter": "Doug Schepers",
+            "type": "session"
+        },
+        {
+            "description": "Based material from the book 'RESTful Web APIs', this talk walks you through the creation of a great UI for a Collection JSON media type API and then shows how minor changes on the server are automatically handled by the client without rewrites or redeploys. The same library can even used for different APIs with the same smooth results. Reusable libraries for hypermedia clients is a reality. ",
+            "duration": "31 minutes 281 MB",
+            "title": "Reusable Libraries for Hypermedia Clients",
+			"presenter": "Mike Amundsen",
+            "type": "session"
+        },
+        {
+            "description": "During this session discover the ways you can impact the application performance for your end user - pin pointing time spent within layers of the application, and end user demographics through geography, browser types, and page views. In addition to the application visibility we will be showing you how to dive into the time being spent within AJAX as well as the impact of JavaScript errors. ",
+            "duration": "31 minutes 278 MB",
+            "title": "Measuring App Performance in the Browser",
+			"presenter": "Nathan Taggart",
+            "type": "session"
+        },
+        {
+            "description": "Overview of all the new features of Sass 3.3 and how they can be used to supercharge your stylesheets by one of the creators of Sass. ",
+            "duration": "33 minutes 297 MB",
+            "title": "The Mindblowing Power of Sass 3.3",
+			"presenter": "Chris Eppstein",
+            "type": "session"
+        },
+        {
+            "description": "Learn how to use the ExpressJS framework to select the right structure and paradigm for your NodeJS application. You will leave this presentation with the knowledge to immediately build a well structured ExpressJS web application. ",
+            "duration": "33 minutes 300 MB",
+            "title": "Introduction to ExpressJS",
+			"presenter": "Guy Ellis",
+            "type": "session"
+        },
+        {
+            "description": "jQuery Mobile is one of the easiest ways to create a mobile site today. Mobile development brings performance to the forefront. Well explore a few ways to get the most out of jQuery Mobile and your site. These tips were used in building a conference mobile site, which was built with performance in mind. Well learn how to make jQuery Mobile fast on any device. ",
+            "duration": "35 minutes 317 MB",
+            "title": "Performance Tips when Developing with jQuery Mobile",
+			"presenter": "Ralph Whitbeck",
+            "type": "session"
+        },
+        {
+            "description": "Ember.js is an exceptionally powerful and exciting technology for building rich, native-feeling experiences on the web. It combines some of the best ideas from classic UI frameworks like Cocoa and UIKit with cutting-edge HTML 5 standards like web components. ",
+            "duration": "35 minutes 313 MB",
+            "title": "Building Ambitious Web Applications with Ember.js",
+			"presenter": "Michael Jackson",
+            "type": "session"
+        },
+        {
+            "description": "Meteor is a distribution of open-source packages that makes it radically faster to build modern apps. All the parts are there: a reactive template engine, powerful data synchronization primitives, a standard wire protocol, and a database API that works the same on both the client and the server. This talk will demonstrate making an app from scratch, showing how it all fits together. ",
+            "duration": "31 minutes 283 MB",
+            "title": "Meteor: A Full-stack JavaScript Framework for Modern App Development",
+			"presenter": "Matt DeBergalis",
+            "type": "session"
+        },
+        {
+            "description": "If you want to get your brain stuffed with every bit of info on runtime perf, then this is your talk. In-depth information on how many frames the human eye can process, differences between refresh rates and frame rates, motion blur, jitter, responsiveness, input lag and hands-on advice on profiling and debugging, all obviously from a games perspective, but applicable to all web development. ",
+            "duration": "30 minutes 274 MB",
+            "title": "Frames Per Second",
+			"presenter": "Paul Bakaus",
+            "type": "session"
+        },
+        {
+            "description": "Email consumption on mobile devices is growing at an unprecedented rate, and the HTML capabilities of those devices is a step-change from their desktop counterparts. This talk will demo some lessons learned building delightful mobile experiences at LinkedIn, and present specific HTML and CSS3 authoring techniques for creating remarkable best-in-class mobile emails. ",
+            "duration": "32 minutes 286 MB",
+            "title": "Supercharge Your Mobile Emails",
+			"presenter": "Lee Mallabone",
+            "type": "session"
+        },
+        {
+            "description": "Thinking procedurally is one of the hardest concepts to grasp for the beginning programmer. By using a new-breed of tools we can visualize how programs run and reason about our programs in new ways. In this talk, you will learn how to use tools like esprima to programmatically rewrite javascript and visualize the space-time fabric of javascript execution. ",
+            "duration": "28 minutes 256 MB",
+            "title": "Manipulating Space-Time Fabric by Rewriting Javascript AST",
+			"presenter": "Nate Murray",
+            "type": "session"
+        },
+        {
+            "description": "A promise is a proxy for an eventual result, like an asynchronous version of return or throw, but they can also pipeline messages asynchronously to and from remote objects. A Promise type will likely be in ECMAScript 6, and many modern libraries use them already. In this talk, I will bring you up to speed with what they are and what you can do with them today and what they promise for tomorrow. ",
+            "duration": "34 minutes 306 MB",
+            "title": "Asynchronous Promises",
+			"presenter": "Kris Kowal",
+            "type": "session"
+        },
+        {
+            "description": "Come learn the top AngularJS tips to improve your workflow and enhance your AngularJS experience. John will talk about 'Best Practices', debatable approaches, and code smells that he's found from teaching and training on AngularJS since it hit.",
+            "duration": "28 minutes 250 MB",
+            "title": "AngularJS - Top 10 Tips",
+			"presenter": "John Lindquist",
+            "type": "session"
+        },
+        {
+            "description": "The field of user experience has proven in the last decade how research methodologies can significantly improve the usability, intuitability, and enjoyment of products. Yet API design is dominated by discussion of how one technology (HTTP) is most purely applied (REST/Hypermedia). User research and testing can elevate the level of design for APIs. I will present strategies for building great APIs. ",
+            "duration": "30 minutes 274 MB",
+            "title": "UX Research Methods for API Design",
+			"presenter": "Jeremiah Lee",
+            "type": "session"
+        },
+        {
+            "description": "In iOS 7, JavaScript has become a first-class citizen for iOS development. The new JavaScriptCore system framework provides a bridge between JS and Objective-C code, opening up the entire Cocoa Touch platform to JavaScript developers. This talk will explore this new API, and demonstrate how developers can take advantage of it with a demo that uses JavaScript to drive a simple 2D SpriteKit game. ",
+            "duration": "28 minutes 258 MB",
+            "title": "JavaScript as a First-Class Citizen on iOS 7",
+			"presenter": "Kevin Whinnery",
+            "type": "session"
+        },
+        {
+            "description": "The co-founders of Technical Machine talk about what the future has in store for the developer experience of embedded devices and the software architecture behind their JavaScript-powered microcontroller, Tessel. ",
+            "duration": "27 minutes 247 MB",
+            "title": "JavaScript and Embedded Devices",
+			"presenter": "Jon McKay",
+            "type": "session"
+        },
+        {
+            "description": "Every day, we make hundreds of small technical decisions: what's the best way to implement this? Where should this function live? Less often, we make a larger decision: would a different framework make us more productive? Should we rewrite the whole thing in C? We'd all like to make better decisions, at all of these scales. Let's unpack the decision-making process and see what we can extract. ",
+            "duration": "27 minutes 244 MB",
+            "title": "Unpacking Technical Decisions",
+			"presenter": "Sarah Mei",
+            "type": "session"
+        },
+        {
+            "description": "AngularJS is a fascinating framework for web developers. It's really a completely different way to build applications. There is no DOM selection and mutation, there are only Directives. ",
+            "duration": "29 minutes 265 MB",
+            "title": "AngularJS And The Computer Science Of JavaScript",
+			"presenter": "Burke Holland",
+            "type": "session"
+        },
+        {
+            "description": "Take a whirlwind tour of a the graphics format that looks as good on small devices as it does on high resolution (retina) and large displays. We'll take a look at much of the SVG API as well as how to interact with vector graphics through the use of transforms, transitions, matrices and JavaScript libraries such as RaphaelJS and D",
+            "duration": "29 minutes 258 MB",
+            "title": "Whirlwind Tour of Scalable Vector Graphics",
+			"presenter": "Marc Grabanski",
+            "type": "session"
+        },
+        {
+            "description": "You have seen the stuff that FourSquare has done with spatial and you want some of that hotness for your app. Well this session will give you all the tools you need. We will combine MongoDB, Node.JS, and Leaflet to create full mapping application. When you go home you will be able to amaze your friends and supervisors with some spatial magic goodness you can control. ",
+            "duration": "40 minutes 354 MB",
+            "title": "Leaflet, Node.JS, and MongoDB for a easy and fun web mapping experience",
+			"presenter": "Steven Pousty",
+            "type": "session"
+        },
+        {
+            "description": "An affordable open hardware platform provides entrepreneurial software developers an easy path for wrapping their services with customized and dedicated devices to sell as consumer or industrial appliances. ",
+            "duration": "39 minutes 348 MB",
+            "title": "JavaScript, Linux and Open Hardware: A Recipe for Rapid Internet Devices",
+			"presenter": "Jason Kridner",
+            "type": "session"
+        },
+        {
+            "description": "Good page load time begins with good design. As web performance grows in importance in the industry, many page speed tutorials focus on the back end. This presentation focuses on performance from a design and front end perspective. ",
+            "duration": "26 minutes 239 MB",
+            "title": "Designing for Front-End Page Speed",
+			"presenter": "Lara Swanson",
+            "type": "session"
+        },
+        {
+            "description": "Abstractions in FP can be daunting if you're not familiar with set theory or lambda calculus or category theory and all that. I'm certainly not. I'll translate some of the most important functional patterns and interfaces in JS directed towards us object orienters who may not have majored in math. You'll leave with a killer toolset and you'll weep at the beauty...if you have a heart. ",
+            "duration": "30 minutes 268 MB",
+            "title": "Functional Programming Patterns for the Non-Mathematician",
+			"presenter": "Brian Lonsdorf",
+            "type": "session"
+        },
+        {
+            "description": "Modern applications written in JavaScript are vulnerable to many of the same attacks, like XSS and CSRF, that threaten traditional web apps. But defending against them requires new tools and techniques. This talk will illustrate best practices for securing these apps, and introduce some of the security conventions and tools we've built into Meteor, a full-stack JavaScript framework. ",
+            "duration": "28 minutes 251 MB",
+            "title": "Tools and Techniques for Securing JavaScript Applications",
+			"presenter": "Emily Stark",
+            "type": "session"
+        },
+        {
+            "description": "This is not another session using Node and Socketio to demonstrate sending an receiving real time data. This presentation will cover what it takes to stand up production ready WebSocket clients and how to manage and gracefully degrade for non-supporting browsers. ",
+            "duration": "31 minutes 277 MB",
+            "title": "Writing Real Time Web Apps",
+			"presenter": "Wesley Hales",
+            "type": "session"
+        },
+        {
+            "description": "Web developers are expected to build increasingly sophisticated UIs faster, cheaper, with tools that have not evolved with the times. Why is the trivial task of centering an element with CSS so obtusely complex? ",
+            "duration": "40 minutes 366 MB",
+            "title": "GSS - Layouts Not Possible Even with Tomorrow's CSS Using Polyfills from the Future",
+			"presenter": "Dan Tocchini",
+            "type": "session"
+        }
+    ]
+}

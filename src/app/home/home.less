@@ -1,0 +1,43 @@
+.masthead {
+    margin-top: 0;
+    border-bottom: 4px solid #333;
+    height: 100px;
+    background: rgba(255, 255, 255, 0.9);
+    .logo {
+        width: 150px;
+    }
+    .search-form {
+        margin-left: 150px;
+    }
+}
+
+.content {
+    margin-top: 150px;
+}
+
+.content-list {
+    li {
+        border-bottom: 2px solid #CCC;
+        padding-bottom: 26px;
+        margin-bottom: 26px;
+        &:last-of-type {
+            border-bottom: none;
+        }
+        &.unavailable {
+            opacity: 0.7;
+        }
+        .label {
+            margin-bottom: 10px;
+            display: inline-block;
+        }
+        .fa {
+            margin-right: 4px;
+        }
+    }
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 800px;
+    }
+}

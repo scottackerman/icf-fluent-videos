@@ -1,0 +1,63 @@
+<div class="container">
+    <nav class="navbar navbar-default navbar-fixed-top masthead" role="navigation">
+        <div class="container">
+            <div class="pull-left logo">
+                <h1>Videos</h1>
+                <p><strong>{{filtered.length}}</strong> results</p>
+            </div>
+            <form class="navbar-form navbar-right search-form">
+                <div class="form-group">
+                    <input class="form-control" type="text" ng-model="query" placeholder="Search...">
+                </div>
+            </form>
+			<ul class="nav nav-pills">
+				<li ng-class="{ active: app.getLectureType('all') }">
+					<a href ng-click="app.setLectureType('all')">All</a>
+				</li>
+				<li ng-class="{ active: app.getLectureType('lecture') }">
+					<a href ng-click="app.setLectureType('lecture')">Lecture</a>
+				</li>
+				<li ng-class="{ active: app.getLectureType('session') }">
+					<a href ng-click="app.setLectureType('session')">Session</a>
+				</li>
+				<li ng-class="{ active: app.getLectureType('tutorial') }">
+					<a href ng-click="app.setLectureType('tutorial')">Tutorial</a>
+				</li>
+			</ul>
+        </div>
+    </nav>
+
+    <div class="content">
+        <ul class="list-unstyled content-list">
+            <li ng-repeat="video in filtered = (app.videos | filter:query)"
+                ng-class="{ unavailable: !video.filename }"
+				ng-show="app.getLectureType(video.type) || app.getLectureType('all')">
+                <h4>{{ video.title }}</h4>
+				<span class="presenter">{{ video.presenter }}</span>
+                <span class="label" 
+                    ng-class="{ 'label-info': video.filename, 'label-default': !video.filename }">
+                        {{ video.type }}
+                </span>
+				<img 
+					ng-show="video.filename"
+					ng-click="app.openVideoModal(video)"
+					src="{{video.thumb}}"
+					alt="{{video.title}}"
+					class="videoThumb">
+                <p>{{ video.description }}</p>
+                <aside><em>{{ video.duration }}</em></aside>
+                <button class="btn btn-default"
+                    ng-show="video.filename"
+                    ng-click="app.openVideoModal(video)">
+                    <i class="fa fa-play"></i> Play video 
+                </button>
+                <a class="btn btn-default"
+                    ng-show="video.download"
+                    href="{{ app.downloadsPath + video.download }}"
+                    target="_blank">
+                    <i class="fa fa-download"></i> Download assets 
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
