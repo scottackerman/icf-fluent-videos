@@ -1,5 +1,5 @@
 # Videos
-A simple website for viewing videos from the 2014 Fluent conference.
+A simple website for viewing videos from the 2014 Fluent conference using ng-boilerplate, first stab with grunt.
 
 ## Latest updates
 Created new model for showing result numbers based on query and lecture type
