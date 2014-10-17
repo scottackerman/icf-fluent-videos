@@ -19,4 +19,4 @@ Copy the contents of the `build` directory to ifcworkshops.com/videos.
 - Make sure to upload any new video or download files to the server as well.
 
 ## TODO
-- Get size of video
+- Get size of video 
